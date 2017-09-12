@@ -4,11 +4,12 @@
 * Features:
 
 ** Register 
-![Register](C:\Users\jason\instagram_app\Screenshots/RegisterInstagram.png "Registering a new account").
+![registerinstagram](https://user-images.githubusercontent.com/25189994/30316509-4eee32b8-975c-11e7-98a0-5a898fdbc366.PNG)
 
 ** Login/Logout,
-![Login](C:\Users\jason\instagram_app\Screenshots/LoginInstagram.png "Logging into program")
+![logininstagram](https://user-images.githubusercontent.com/25189994/30316502-4a5e1fc4-975c-11e7-9deb-e19be68c903b.PNG)
 
 ** Adding a new post,
-![Add Post](C:\Users\jason\instagram_app\Screenshots/NewPostInstagram.png "Posting a picture with a description")
+![newpostinstagram](https://user-images.githubusercontent.com/25189994/30316510-4ef855ae-975c-11e7-826a-2feb71cb19ac.PNG)
+
 
