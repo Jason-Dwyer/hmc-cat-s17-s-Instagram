@@ -3,10 +3,10 @@
 
 * Features:
 ** Register 
-![alt text](Screenshots/RegisterInstagram.png "Registering a new account")
+![Register](Screenshots/RegisterInstagram.png "Registering a new account")
 ** Login/Logout,
-![alt text](Screenshots/LoginInstagram.png "Logging into program")
+![Login](Screenshots/LoginInstagram.png "Logging into program")
 
 ** Adding a new post,
-![alt text](Screenshots/NewPostInstagram.png "Posting a picture with a description")
+![Add Post](Screenshots/NewPostInstagram.png "Posting a picture with a description")
 
