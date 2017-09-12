@@ -9,7 +9,7 @@
 * Login/Logout,
 ![logininstagram](https://user-images.githubusercontent.com/25189994/30316502-4a5e1fc4-975c-11e7-9deb-e19be68c903b.PNG)
 
-* Adding a new post,
+* Adding a new post
 ![newpostinstagram](https://user-images.githubusercontent.com/25189994/30316510-4ef855ae-975c-11e7-826a-2feb71cb19ac.PNG)
 
 
